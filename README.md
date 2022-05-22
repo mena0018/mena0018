@@ -12,7 +12,7 @@
 
 <br />
 
-<h3 align=left>Frontend</h3>
+<h3 align=left>Frontend ✨</h3>
 
 
 <p align="left"> 
@@ -52,7 +52,7 @@
 
   
   
-<h3 align="right">Backend</h3>
+<h3 align="right">Backend 🤖 </h3>
 <p align="right">
   
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -91,7 +91,7 @@
 </p>
 
 
-<h3 align="left">Others</h3>
+<h3 align="left">Others ⚙️</h3>
 <p align="left">
   
    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
@@ -119,7 +119,7 @@
 
 
 <!--CONTACT -->
-<h3 align="right">Connect with me:</h3>
+<h3 align="right">Connect with me 🔗</h3>
   <p align="right">
     <a href="https://codepen.io/mena0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mena0018" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/rabie-menad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabie-menad" height="30" width="40" /></a>
@@ -128,15 +128,15 @@
  
  <br />
  <br />
+ 
+ 
 
 <h3 align="center">More Informations</h3>
-<p align="center"> 
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mena0018&theme=tokyonight&langs_count=6&hide_border=true&show_icons=true&layout=compact)
-
+<p align="center">   
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mena0018&theme=tokyonight&hide_border=true" alt="mena0018" />
 </p>
 
 <!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mena0018&theme=tokyonight&show_icons=true&hide=stars,prs,issues,contribs&hide_border=true) -->
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mena0018&theme=tokyonight&langs_count=6&hide_border=true&show_icons=true&layout=compact)
+-->
   
