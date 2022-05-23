@@ -45,7 +45,7 @@
    </a> 
   
   <a href="https://greensock.com" target="_blank" rel="noreferrer">
-    <img src="https://worldvectorlogo.com/fr/logo/gsap-greensock" alt="GSAP" width="40" height="40"/>
+    <img src="./gsap-greensock.svg" alt="GSAP" width="40" height="40"/>
   </a>
   
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
