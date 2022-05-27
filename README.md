@@ -77,18 +77,25 @@
      <img src="https://symfony.com/logos/symfony_white_03.svg" alt="symfony" width="40" height="40"/> 
   </a>
   
+  <a href="https://phpunit.de" target="_blank" rel="noreferrer"> 
+     <img src="./phpunit-svgrepo-com.svg" alt="PhpUnit" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://api-platform.com" target="_blank" rel="noreferrer"> 
+     <img src="./Logo_Circle webby blue.svg" alt="API Platform" width="40" height="40"/> 
+  </a>
+  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a> 
+  </a> 
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
- </a> 
+  </a> 
  
-  
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
   
 </p>
 
