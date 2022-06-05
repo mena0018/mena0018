@@ -7,7 +7,7 @@
 
 <span> Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, 
-  I'm Rabie,   ***a passionate web developer from Lille***  
+  I'm Rabie,   ***a web developer from Lille***  
 </span>
 
 </h1>
