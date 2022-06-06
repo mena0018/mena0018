@@ -58,7 +58,7 @@
    </a> 
   
   <a href="https://greensock.com" target="_blank" rel="noreferrer">
-    <img src="./gsap-greensock.svg" alt="GSAP" width="40" height="40"/>
+    <img src="./icones/front/gsap-greensock.svg" alt="GSAP" width="40" height="40"/>
   </a>
   
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -85,11 +85,11 @@
   </a>
   
   <a href="https://phpunit.de" target="_blank" rel="noreferrer"> 
-     <img src="./phpunit-svgrepo-com.svg" alt="PhpUnit" width="40" height="40"/> 
+     <img src="./icones/back/phpunit-svgrepo-com.svg" alt="PhpUnit" width="40" height="40"/> 
   </a>
   
   <a href="https://api-platform.com" target="_blank" rel="noreferrer"> 
-     <img src="./Logo_Circle webby blue.svg" alt="API Platform" width="40" height="40"/> 
+     <img src="./icones/back/Logo_Circle webby blue.svg" alt="API Platform" width="40" height="40"/> 
   </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
