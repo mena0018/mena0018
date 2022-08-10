@@ -100,10 +100,11 @@
      <img src="./icones/back/Logo_Circle webby blue.svg" alt="API Platform" width="40" height="40"/> 
   </a>
   
+  <!--
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a> 
-  <!--
+  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a> 
@@ -150,25 +151,24 @@
   
 
 
-<!--CONTACT -->
 <h3 align="right">Connect with me 🔗</h3>
   <p align="right">
-    <a href="https://codepen.io/mena0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mena0018" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/rabie-menad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabie-menad" height="30" width="40" /></a>
-    <a href="https://discord.gg/Rabzouz#6003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rabzouz#6003" height="30" width="40" /></a>
- </p>
- 
- <br />
- <br />
- 
- 
 
+  <a href="https://linkedin.com/in/rabie-menad" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+  </a>
+  
+ 
+ <br />
+ <br />
+ 
+ 
 <h3 align="center">More Informations</h3>
 <p align="center">   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mena0018&theme=tokyonight&hide_border=true" alt="mena0018" />
 </p>
 
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mena0018&theme=tokyonight&langs_count=6&hide_border=true&show_icons=true&layout=compact)
 -->
-  
