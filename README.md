@@ -53,7 +53,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
    </a> 
    <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-     <img src="https://symfony.com/logos/symfony_white_03.svg" alt="symfony" width="40" height="40"/> 
+     <img src="./icones/back/symfony.svg" alt="symfony" width="40" height="40"/> 
    </a>
    <a href="https://phpunit.de" target="_blank" rel="noreferrer"> 
      <img src="./icones/back/phpunit-svgrepo-com.svg" alt="PhpUnit" width="40" height="40"/> 
