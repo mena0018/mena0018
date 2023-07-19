@@ -68,15 +68,15 @@
    <picture>
       <source
          srcset=
-         "https://github-readme-stats.vercel.app/api?username=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&width=250"
+         "https://github-readme-stats.vercel.app/api?username=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250"
          media="(prefers-color-scheme: dark)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api?username=mena0018&theme=default&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&width=250"
+         srcset="https://github-readme-stats.vercel.app/api?username=mena0018&theme=default&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
       <img align="center" src=
-         "https://github-readme-stats.vercel.app/apiusername=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&width=250"        />
+         "https://github-readme-stats.vercel.app/apiusername=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250"        />
    </picture>
 </div>
 
