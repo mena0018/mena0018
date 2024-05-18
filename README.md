@@ -6,6 +6,7 @@
    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
 </h1>
 
+
 <h3 align="left">Frontend ✨</h3>
 <div align="left">
   <img
@@ -55,18 +56,7 @@
 
 <h3 align="right">Tools ⚙️</h3>
 <div align="right">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-    alt="postgresql"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  />
+  <img src="./icones/front/framer-motion.svg" alt="framer-motion" width="40" height="40" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
     alt="storybook"
@@ -79,7 +69,20 @@
     width="40"
     height="40"
   />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    alt="postgresql"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
+    alt="docker"
+    width="40"
+    height="40"
+  />
 </div>
+
 
 <br />
 <br />
@@ -105,33 +108,3 @@
          "https://github-readme-stats.vercel.app/apiusername=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250"        />
    </picture>
 </div>
-
-
-<!-- 
-   <h3 align="right">Backend 🤖 </h3>
-   <div align="right">
-          <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-          </a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-          </a> 
-          <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-            <img src="./icones/back/symfony.svg" alt="symfony" width="40" height="40"/> 
-          </a>
-          <a href="https://phpunit.de" target="_blank" rel="noreferrer"> 
-            <img src="./icones/back/phpunit-svgrepo-com.svg" alt="PhpUnit" width="40" height="40"/> 
-          </a>
-          <a href="https://api-platform.com" target="_blank" rel="noreferrer"> 
-            <img src="./icones/back/Logo_Circle webby blue.svg" alt="API Platform" width="40" height="40"/> 
-          </a>
-          <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-          </a> 
-          <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-          </a> 
-   </div>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mena0018&theme=tokyonight&langs_count=6&hide_border=true&show_icons=true&layout=compact)
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mena0018&theme=discord_old_blurple&hide_border=true" />
-   -->
