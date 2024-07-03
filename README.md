@@ -35,8 +35,8 @@
   />
   <img src="./icones/front/next.svg" alt="next" width="40" height="40" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"
-    alt="svelte"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
+    alt="angular"
     width="40"
     height="40"
   />
