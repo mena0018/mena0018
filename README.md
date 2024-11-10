@@ -117,7 +117,7 @@
     />
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/apiusername=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250"
+      src="https://github-readme-stats.vercel.app/api?username=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250"
     />
   </picture>
 </div>
