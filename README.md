@@ -22,7 +22,6 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" /></td>
     <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" /></td>
   </tr>
 </table>
 
@@ -30,6 +29,7 @@
 <div align="right">
   <table cellspacing="0" cellpadding="8">
     <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" /></td>
       <td><img src="./icones/front/framer-motion.svg" alt="framer-motion" width="40" height="40" /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40" /></td>
       <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></td>
