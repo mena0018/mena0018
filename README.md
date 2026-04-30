@@ -12,84 +12,34 @@
     width="25"
   />
 </h1>
-
 <h3 align="left">Frontend ✨</h3>
-<div align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-    alt="typescript"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    alt="react"
-    width="40"
-    height="40"
-  />
-  <img src="./icones/front/next.svg" alt="next" width="40" height="40" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"
-    alt="graphql"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-    alt="material-ui"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    alt="tailwind"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-    alt="jest"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
-    alt="playwright"
-    width="40"
-    height="40"
-  />
-</div>
+<table cellspacing="0" cellpadding="8">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" /></td>
+    <td><img src="./icones/front/next.svg" alt="next" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" /></td>
+  </tr>
+</table>
 
 <h3 align="right">Tools ⚙️</h3>
 <div align="right">
-  <img src="./icones/front/framer-motion.svg" alt="framer-motion" width="40" height="40" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
-    alt="storybook"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-    alt="postgresql"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  />
+  <table cellspacing="0" cellpadding="8">
+    <tr>
+      <td><img src="./icones/front/framer-motion.svg" alt="framer-motion" width="40" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40" /></td>
+    </tr>
+  </table>
 </div>
 
-<br />
+<br clear="both" />
 <br />
 
 <div align="center">
@@ -104,15 +54,11 @@
 <div align="center">
   <picture>
     <source
-      srcset="
-        https://github-readme-stats.vercel.app/api?username=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250
-      "
+      srcset="https://github-readme-stats.vercel.app/api?username=mena0018&theme=discord_old_blurple&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="
-        https://github-readme-stats.vercel.app/api?username=mena0018&theme=default&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250
-      "
+      srcset="https://github-readme-stats.vercel.app/api?username=mena0018&theme=default&hide_border=true&show_icons=true&count_private=true&rank_icon=github&width=250"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
